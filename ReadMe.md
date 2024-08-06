@@ -20,12 +20,16 @@ maintained by Yanyan Jiang, written in Chinese.
 
 https://jyywiki.cn/AbstractMachine/AM_Spec.md
 
-## Implementation
+## Implementations
 
 Contains the AbstractMachine interface definitions, and the official supported
 platform implementations.
 
 https://github.com/NJU-ProjectN/abstract-machine
+
+Here is the old repository for the AbstractMachine.
+
+https://github.com/NJU-ProjectN/nexus-am
 
 ## Documentations
 
@@ -58,6 +62,8 @@ Here are the softwares based on or ported to AbstractMachine interfaces.
   - https://github.com/NJU-ProjectN/am-kernels
 - FCEUX, a NES Emulator
   - https://github.com/NJU-ProjectN/fceux-am
+- riscv-arch-test
+  - https://github.com/NJU-ProjectN/riscv-arch-test-am
 - riscv-tests
   - https://github.com/NJU-ProjectN/riscv-tests-am
 
