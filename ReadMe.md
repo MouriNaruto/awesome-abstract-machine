@@ -60,3 +60,11 @@ Here are the softwares based on or ported to AbstractMachine interfaces.
   - https://github.com/NJU-ProjectN/fceux-am
 - riscv-tests
   - https://github.com/NJU-ProjectN/riscv-tests-am
+
+## Thanks
+
+Note: This list sort in the alphabetical order.
+
+- Anillc, https://github.com/Anillc
+- Yanyan Jiang, https://github.com/jiangyy
+- Zihao Yu, https://github.com/sashimi-yzh
