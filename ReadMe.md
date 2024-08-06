@@ -38,7 +38,7 @@ Here is the documentations of the AbstractMachine from OSCC (Open Source Chip
 Community), maintained by Zihao Yu, written and spoken in Chinese.
 
 - [Text Version](https://ysyx.oscc.cc/docs/ics-pa/2.3.html)
-- [Slide Version](https://ysyx.oscc.cc/slides/2306/11.html)]
+- [Slide Version](https://ysyx.oscc.cc/slides/2306/11.html)
 - [Video Version](https://www.bilibili.com/video/BV1Vu4y1s73Y)
 
 ## Frameworks
