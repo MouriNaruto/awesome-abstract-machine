@@ -27,9 +27,15 @@ platform implementations.
 
 https://github.com/NJU-ProjectN/abstract-machine
 
+Warning: There are many contents which is not implemented because this project
+is actually the coursework. 
+
 Here is the old repository for the AbstractMachine.
 
 https://github.com/NJU-ProjectN/nexus-am
+
+Warning: There are many contents which is not implemented because this project
+is actually the coursework. 
 
 ## Documentations
 
